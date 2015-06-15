@@ -1,2 +1,2 @@
 # ee536-adc
-Course Materials for ADC course
+Course Materials for ADC course.
